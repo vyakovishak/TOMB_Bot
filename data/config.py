@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-BOT_TOKEN = str("5152978553:AAGU-gfPGZ9_fbvHmkGE2F1mvkRnDXb1Ab4")
+BOT_TOKEN = str("API_KEY")
 admins = [
     936590877
 ]
